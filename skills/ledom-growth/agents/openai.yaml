@@ -1,0 +1,4 @@
+interface:
+  display_name: "LEDO.М — SEO и продвижение"
+  short_description: "SEO, Tilda, карты, контент и размещения для LEDO.М"
+  default_prompt: "Используй $ledom-growth: выбери и выполни следующий обоснованный шаг продвижения LEDO.М в пределах текущего поручения."

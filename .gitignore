@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+*.zip
+local-data/
+outreach-ledger-*.csv
+prospects-*.csv
+installation-*.json

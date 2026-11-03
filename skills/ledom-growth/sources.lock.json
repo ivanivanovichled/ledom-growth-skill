@@ -1,0 +1,167 @@
+{
+  "checked_date": "2026-11-03",
+  "schema_version": 1,
+  "purpose": "Pinned upstream instructions inspected for a selectively adapted skill; no upstream executable code included",
+  "sources": [
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "files": [
+        {
+          "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/LICENSE",
+          "path": "LICENSE"
+        },
+        {
+          "sha256": "19ece0fa75c72a5a8b6e90db80f506586f54cc93bae6bffbb1bd2ef4ae7d603c",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/product-marketing/SKILL.md",
+          "path": "skills/product-marketing/SKILL.md"
+        },
+        {
+          "sha256": "22964b89315a6cf5524d3f627904843e7826d40e06689a07faa5df25fc730bc7",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/customer-research/SKILL.md",
+          "path": "skills/customer-research/SKILL.md"
+        },
+        {
+          "sha256": "5e74201646b8ae0b7ddfd2f4a4a14149096f490667b32bcb9e3a35e7326d88b0",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/content-strategy/SKILL.md",
+          "path": "skills/content-strategy/SKILL.md"
+        },
+        {
+          "sha256": "6e172cc38178c800ff41ceb097f36c6a1db8035fb88a1fee53043f8ec38a6f35",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/cro/SKILL.md",
+          "path": "skills/cro/SKILL.md"
+        },
+        {
+          "sha256": "49b8f29b3da1ae6510572288cad3eb1f3d43a969373443be98b38639746587e6",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/cro/references/form.md",
+          "path": "skills/cro/references/form.md"
+        },
+        {
+          "sha256": "02f0ab1ddd41d95b3c230d4bcff3de6578c8f2e45776c8ef2e4b931636af5bee",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/copywriting/SKILL.md",
+          "path": "skills/copywriting/SKILL.md"
+        },
+        {
+          "sha256": "c8cb2cbeb318393d3a014ebed366ae13e6cd84d205cb6a2ac03890698639a146",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/analytics/SKILL.md",
+          "path": "skills/analytics/SKILL.md"
+        },
+        {
+          "sha256": "1073aad4a1452b735e4f70ccb28b7b778658d2eb3b49946eb56265f00a69598c",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/co-marketing/SKILL.md",
+          "path": "skills/co-marketing/SKILL.md"
+        },
+        {
+          "sha256": "1ba02b7d18057351f654bdd9c4105dfbcbd94e19cf973f5ca1db6115d96ea321",
+          "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/88c79f6528a9347420e57ceb1fff9a60de651768/skills/link-building/SKILL.md",
+          "path": "skills/link-building/SKILL.md"
+        }
+      ],
+      "license": "MIT",
+      "commit": "88c79f6528a9347420e57ceb1fff9a60de651768"
+    },
+    {
+      "repository": "2gelbuy/google-yandex-2gis-local-seo-skill",
+      "files": [
+        {
+          "sha256": "853168887b5635858c1cf27e7e473da7e5edfce5bb468d6791130ff2789a0ccb",
+          "url": "https://raw.githubusercontent.com/2gelbuy/google-yandex-2gis-local-seo-skill/eab3e6d1018d21acbb97b461e699405fc7efc31f/LICENSE",
+          "path": "LICENSE"
+        },
+        {
+          "sha256": "d9a0196c1c0b8680d6e2cd825c23e72383ebdb99ef9ed6fa39c6cefc15713cd4",
+          "url": "https://raw.githubusercontent.com/2gelbuy/google-yandex-2gis-local-seo-skill/eab3e6d1018d21acbb97b461e699405fc7efc31f/skills/google-yandex-2gis-local-seo/SKILL.md",
+          "path": "skills/google-yandex-2gis-local-seo/SKILL.md"
+        }
+      ],
+      "license": "MIT",
+      "commit": "eab3e6d1018d21acbb97b461e699405fc7efc31f"
+    },
+    {
+      "repository": "addyosmani/web-quality-skills",
+      "files": [
+        {
+          "sha256": "c122223ac43e86421958e18623979942c21b642951e2e3736dcb63eff13587c3",
+          "url": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/afa8da942115f2961fdbfa80807ea0b232ff6c00/LICENSE",
+          "path": "LICENSE"
+        },
+        {
+          "sha256": "b0c220185d88c61f7770eb127d8facf86c86d2dd1fd82b86e15a4965a0137265",
+          "url": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/afa8da942115f2961fdbfa80807ea0b232ff6c00/skills/performance/SKILL.md",
+          "path": "skills/performance/SKILL.md"
+        },
+        {
+          "sha256": "128f6f20c6c8fb55fcccd8b259cf680811022cf262dc55b03e9d623bcb555a99",
+          "url": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/afa8da942115f2961fdbfa80807ea0b232ff6c00/skills/performance/references/MEASUREMENT.md",
+          "path": "skills/performance/references/MEASUREMENT.md"
+        },
+        {
+          "sha256": "731aa78c0347e8b3e191b75962175bee058ce73817278e610ac0fe546e685914",
+          "url": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/afa8da942115f2961fdbfa80807ea0b232ff6c00/skills/core-web-vitals/SKILL.md",
+          "path": "skills/core-web-vitals/SKILL.md"
+        },
+        {
+          "sha256": "267fb2a0707d6142f2871f22688203a42ba21291a2aa200fb740936e41362b5d",
+          "url": "https://raw.githubusercontent.com/addyosmani/web-quality-skills/afa8da942115f2961fdbfa80807ea0b232ff6c00/skills/accessibility/SKILL.md",
+          "path": "skills/accessibility/SKILL.md"
+        }
+      ],
+      "license": "MIT",
+      "commit": "afa8da942115f2961fdbfa80807ea0b232ff6c00"
+    },
+    {
+      "repository": "AgriciDaniel/claude-seo",
+      "files": [
+        {
+          "sha256": "a42b3b0253cecea9af810c5207a67b0be8c9a0cfbf52b9302c3d26b063e7a86b",
+          "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-seo/6be93f45064ffbadced572b5d5c95f55fd263af0/LICENSE",
+          "path": "LICENSE"
+        },
+        {
+          "sha256": "52b591511274158c11b40cdcbaaea3ef7fc36eb7caf740f46dfefed25ed290d9",
+          "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-seo/6be93f45064ffbadced572b5d5c95f55fd263af0/skills/seo-technical/SKILL.md",
+          "path": "skills/seo-technical/SKILL.md"
+        },
+        {
+          "sha256": "bafad6381bfd6592340a1c635757bb7a31cb8b4d6d173bf72b3d41a16367aff9",
+          "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-seo/6be93f45064ffbadced572b5d5c95f55fd263af0/skills/seo-sxo/SKILL.md",
+          "path": "skills/seo-sxo/SKILL.md"
+        },
+        {
+          "sha256": "396069d41f61028ad353d32c3056ec22869474a910315fc041f6bc1f545c27f3",
+          "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-seo/6be93f45064ffbadced572b5d5c95f55fd263af0/skills/seo-drift/SKILL.md",
+          "path": "skills/seo-drift/SKILL.md"
+        },
+        {
+          "sha256": "922592731c70ef9c8bd5162d41549998c66dee7411af45cf787a421d146cc37b",
+          "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-seo/6be93f45064ffbadced572b5d5c95f55fd263af0/skills/seo-backlinks/SKILL.md",
+          "path": "skills/seo-backlinks/SKILL.md"
+        }
+      ],
+      "license": "MIT",
+      "commit": "6be93f45064ffbadced572b5d5c95f55fd263af0"
+    },
+    {
+      "repository": "Horosheff/google-yandex-seo-skill",
+      "files": [
+        {
+          "sha256": "304d8a675d16b8e5bc339ec28279d2d25379067f4d330f677b20d1afa6aebb3a",
+          "url": "https://raw.githubusercontent.com/Horosheff/google-yandex-seo-skill/bdd76f94eeae739ed105114117f350c7f9c41ecb/LICENSE",
+          "path": "LICENSE"
+        },
+        {
+          "sha256": "8a32f02635d3ea00e33e4fbe9f7ad306d1eb79b5eda9de722480210ace9af9f4",
+          "url": "https://raw.githubusercontent.com/Horosheff/google-yandex-seo-skill/bdd76f94eeae739ed105114117f350c7f9c41ecb/.agents/skills/indexlift-seo-auditor/SKILL.md",
+          "path": ".agents/skills/indexlift-seo-auditor/SKILL.md"
+        },
+        {
+          "sha256": "890d9416b7d9c382ce12bff14b20afa86a7c1258ca9a9fc5e41900907c513876",
+          "url": "https://raw.githubusercontent.com/Horosheff/google-yandex-seo-skill/bdd76f94eeae739ed105114117f350c7f9c41ecb/.agents/skills/indexlift-seo-auditor/references/checks.md",
+          "path": ".agents/skills/indexlift-seo-auditor/references/checks.md"
+        }
+      ],
+      "license": "MIT",
+      "commit": "bdd76f94eeae739ed105114117f350c7f9c41ecb"
+    }
+  ]
+}
